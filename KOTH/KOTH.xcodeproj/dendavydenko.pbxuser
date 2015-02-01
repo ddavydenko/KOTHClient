@@ -1,0 +1,1889 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* KOTH */ = {
+		activeExec = 0;
+		executables = (
+			88F76BFD126DB37200C3E4E8 /* KOTH */,
+		);
+	};
+	1F3B9A2B0EF2145700286867 /* KOTHAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1820}}";
+			sepNavSelRange = "{1836, 0}";
+			sepNavVisRange = "{1570, 1379}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	1F3B9A2C0EF2145700286867 /* KOTHAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 358}}";
+			sepNavSelRange = "{168, 0}";
+			sepNavVisRange = "{0, 311}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	1F3B9A820EF2151B00286867 /* KOTH_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 574}}";
+			sepNavSelRange = "{165, 0}";
+			sepNavVisRange = "{0, 202}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeArchitecturePreference = armv7;
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 88F76BFD126DB37200C3E4E8 /* KOTH */;
+		activeSDKPreference = iphoneos4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* KOTH */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* KOTH */,
+		);
+		breakpoints = (
+			88D3B3BB129AB38F0016193D /* NSArrayEx.h:17 */,
+			884471E112A13E1F00BA1190 /* OpenFeint+Private.mm:883 */,
+		);
+		codeSenseManager = 88F76C07126DB37500C3E4E8 /* Code sense */;
+		executables = (
+			88F76BFD126DB37200C3E4E8 /* KOTH */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXBookmarksDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBookmarksDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					200,
+					545,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBookmarksDataSource_LocationID,
+					PBXBookmarksDataSource_NameID,
+					PBXBookmarksDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					694,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					675,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.XCSCMDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					670,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_SCM_ColumnID,
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					654,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 314464338;
+			PBXWorkspaceStateSaveDate = 314464338;
+		};
+		perUserProjectItems = {
+			8884A95A12BE4C7B00C987EF = 8884A95A12BE4C7B00C987EF /* PBXTextBookmark */;
+			8884A95B12BE4C7B00C987EF = 8884A95B12BE4C7B00C987EF /* PBXTextBookmark */;
+			8884A95C12BE4C7B00C987EF = 8884A95C12BE4C7B00C987EF /* PBXTextBookmark */;
+			8884A95D12BE4C7B00C987EF = 8884A95D12BE4C7B00C987EF /* PBXTextBookmark */;
+			8884A96712BE51ED00C987EF = 8884A96712BE51ED00C987EF /* PBXTextBookmark */;
+			8884A96812BE51ED00C987EF = 8884A96812BE51ED00C987EF /* PBXTextBookmark */;
+			8884A96912BE51ED00C987EF = 8884A96912BE51ED00C987EF /* PBXTextBookmark */;
+			8884A96A12BE51ED00C987EF = 8884A96A12BE51ED00C987EF /* PlistBookmark */;
+			8884A96B12BE51ED00C987EF = 8884A96B12BE51ED00C987EF /* PlistBookmark */;
+			8884A96C12BE51ED00C987EF = 8884A96C12BE51ED00C987EF /* PBXTextBookmark */;
+			8884A98212BE565300C987EF = 8884A98212BE565300C987EF /* PBXTextBookmark */;
+			888EDE4A12BE5865009D30EA /* PBXTextBookmark */ = 888EDE4A12BE5865009D30EA /* PBXTextBookmark */;
+			888EDE5812BE5A35009D30EA /* PBXTextBookmark */ = 888EDE5812BE5A35009D30EA /* PBXTextBookmark */;
+			888EDE5912BE5A35009D30EA /* PlistBookmark */ = 888EDE5912BE5A35009D30EA /* PlistBookmark */;
+			888EDE5A12BE5A35009D30EA /* PBXTextBookmark */ = 888EDE5A12BE5A35009D30EA /* PBXTextBookmark */;
+			888EDE5B12BE5A35009D30EA /* PBXTextBookmark */ = 888EDE5B12BE5A35009D30EA /* PBXTextBookmark */;
+			888EDE5C12BE5A35009D30EA /* PBXTextBookmark */ = 888EDE5C12BE5A35009D30EA /* PBXTextBookmark */;
+			888EDE5D12BE5A35009D30EA /* PBXTextBookmark */ = 888EDE5D12BE5A35009D30EA /* PBXTextBookmark */;
+			888EDE5E12BE5A35009D30EA /* PBXTextBookmark */ = 888EDE5E12BE5A35009D30EA /* PBXTextBookmark */;
+			888EDE6F12BE5AD8009D30EA /* PBXTextBookmark */ = 888EDE6F12BE5AD8009D30EA /* PBXTextBookmark */;
+			888EDE7012BE5AD8009D30EA /* PBXTextBookmark */ = 888EDE7012BE5AD8009D30EA /* PBXTextBookmark */;
+			888EDE7112BE5AD8009D30EA /* PBXTextBookmark */ = 888EDE7112BE5AD8009D30EA /* PBXTextBookmark */;
+			888EDE7212BE5AD8009D30EA /* PBXTextBookmark */ = 888EDE7212BE5AD8009D30EA /* PBXTextBookmark */;
+			888EDE7312BE5AD8009D30EA /* PBXTextBookmark */ = 888EDE7312BE5AD8009D30EA /* PBXTextBookmark */;
+			888EDE7B12BE5C4E009D30EA /* PBXTextBookmark */ = 888EDE7B12BE5C4E009D30EA /* PBXTextBookmark */;
+			888EDE7C12BE5C4E009D30EA /* PBXTextBookmark */ = 888EDE7C12BE5C4E009D30EA /* PBXTextBookmark */;
+			888EDE7D12BE5C4E009D30EA /* PBXTextBookmark */ = 888EDE7D12BE5C4E009D30EA /* PBXTextBookmark */;
+			888EDE7E12BE5C4E009D30EA /* PBXTextBookmark */ = 888EDE7E12BE5C4E009D30EA /* PBXTextBookmark */;
+		};
+		sourceControlManager = 88F76C06126DB37500C3E4E8 /* Source Control */;
+		userBookmarkGroup = 88B663FA127569290072BB6B /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 571}}";
+			sepNavSelRange = "{266, 0}";
+			sepNavVisRange = "{0, 371}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	506EE05D10304ED200A389B3 /* cocos2d libraries */ = {
+		activeExec = 0;
+	};
+	507ED63311C638C6002ED3FC /* CDAudioManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 3094}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 2005}";
+		};
+	};
+	507ED63411C638C6002ED3FC /* CDAudioManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1183, 11193}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1754}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	507ED63A11C638C6002ED3FC /* SimpleAudioEngine.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 1222}}";
+			sepNavSelRange = "{1594, 0}";
+			sepNavVisRange = "{1626, 1318}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	507ED63B11C638C6002ED3FC /* SimpleAudioEngine.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 2743}}";
+			sepNavSelRange = "{2297, 19}";
+			sepNavVisRange = "{1924, 770}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	50F41312106926B2002A0D5E /* CDataScanner.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 936}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1497}";
+		};
+	};
+	50F4131E106926B2002A0D5E /* CJSONDeserializer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 780}}";
+			sepNavSelRange = "{1231, 0}";
+			sepNavVisRange = "{0, 1268}";
+		};
+	};
+	50F414EF1069373D002A0D5E /* Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	8819F1F912B3DF08006B7CC9 /* PartnersScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 551}}";
+			sepNavSelRange = "{203, 0}";
+			sepNavVisRange = "{0, 224}";
+		};
+	};
+	8819F1FA12B3DF08006B7CC9 /* PartnersScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 702}}";
+			sepNavSelRange = "{877, 0}";
+			sepNavVisRange = "{215, 939}";
+		};
+	};
+	88351CBE12B3A2D9005B2125 /* LoadingScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 549}}";
+			sepNavSelRange = "{214, 0}";
+			sepNavVisRange = "{0, 222}";
+		};
+	};
+	88351CBF12B3A2D9005B2125 /* LoadingScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {880, 1079}}";
+			sepNavSelRange = "{1264, 0}";
+			sepNavVisRange = "{668, 1316}";
+		};
+	};
+	884471E112A13E1F00BA1190 /* OpenFeint+Private.mm:883 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 8871801212BAA85700446ED3 /* OpenFeint+Private.mm */;
+		functionName = "+launchDashboardWithDelegate:tabControllerName:andControllers:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 883;
+		location = "Battle Rams";
+		modificationTime = 314465265.678528;
+		originalNumberOfMultipleMatches = 1;
+		state = 1;
+	};
+	884472EF12A2493F00BA1190 /* OFLogoTopCornerLeft57.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88502678127811B200124DB8 /* Fighter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 1040}}";
+			sepNavSelRange = "{443, 8}";
+			sepNavVisRange = "{360, 409}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88502679127811B200124DB8 /* Fighter.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 5057}}";
+			sepNavSelRange = "{3748, 0}";
+			sepNavVisRange = "{3355, 1019}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88717ECF12BA955300446ED3 /* Burstly.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 574}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 963}";
+		};
+	};
+	88717ED312BA955A00446ED3 /* OAIAdManagerDelegateProtocol.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1853, 1079}}";
+			sepNavSelRange = "{1079, 0}";
+			sepNavVisRange = "{851, 2379}";
+		};
+	};
+	88717ED512BA955A00446ED3 /* SKServe.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 574}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 361}";
+		};
+	};
+	88717ED612BA955A00446ED3 /* SKServeDelegateProtocol.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 573}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 957}";
+		};
+	};
+	8871800912BAA85700446ED3 /* OpenFeint+AddOns.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {943, 574}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1546}";
+		};
+	};
+	8871824912BAA85A00446ED3 /* README.txt */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1692, 8073}}";
+			sepNavSelRange = "{3041, 0}";
+			sepNavVisRange = "{5094, 2075}";
+		};
+	};
+	8871849C12BAA85F00446ED3 /* OFHighScore.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 4953}}";
+			sepNavSelRange = "{1362, 0}";
+			sepNavVisRange = "{891, 1015}";
+		};
+	};
+	8878E05E1292CC1E004D8BA3 /* Tools.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 393}}";
+			sepNavSelRange = "{243, 10}";
+			sepNavVisRange = "{0, 608}";
+		};
+	};
+	8878E05F1292CC1E004D8BA3 /* Tools.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 728}}";
+			sepNavSelRange = "{444, 10}";
+			sepNavVisRange = "{0, 944}";
+		};
+	};
+	8878E1B81293D079004D8BA3 /* JumpBackground.png */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	8878E2DF1294FF9A004D8BA3 /* OptionsScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 549}}";
+			sepNavSelRange = "{342, 0}";
+			sepNavVisRange = "{0, 529}";
+		};
+	};
+	8878E2E01294FF9A004D8BA3 /* OptionsScene.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{3532, 1344}\";\n            s = 0;\n        },\n                {\n            r = \"{4903, 1302}\";\n            s = 0;\n        },\n                {\n            r = \"{6275, 484}\";\n            s = 0;\n        },\n                {\n            r = \"{6818, 390}\";\n            s = 0;\n        },\n                {\n            r = \"{7339, 126}\";\n            s = 0;\n        },\n                {\n            r = \"{7758, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{8576, 192}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 8777}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1076, 1989}}";
+			sepNavSelRange = "{3302, 0}";
+			sepNavVisRange = "{1286, 2066}";
+		};
+	};
+	888244C5126DC2040027C811 /* GameCenter.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 585}}";
+			sepNavSelRange = "{884, 54}";
+			sepNavVisRange = "{173, 824}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888244C6126DC2040027C811 /* GameCenter.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1852, 379}\";\n            s = 0;\n        },\n                {\n            r = \"{3016, 815}\";\n            s = 0;\n        },\n                {\n            r = \"{3920, 508}\";\n            s = 0;\n        },\n                {\n            r = \"{6000, 430}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 6581}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {873, 2314}}";
+			sepNavSelRange = "{578, 0}";
+			sepNavVisRange = "{1369, 1268}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88824656126F21030027C811 /* _FindFirst.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 663}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1020}";
+		};
+	};
+	88824657126F21030027C811 /* _FindFirst.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1807}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 850}";
+		};
+	};
+	88824659126F21030027C811 /* AsynchronousFileIO.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1006, 4095}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{11, 1089}";
+		};
+	};
+	88824660126F21030027C811 /* BitStream.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {775, 25298}}";
+			sepNavSelRange = "{39578, 0}";
+			sepNavVisRange = "{39266, 793}";
+		};
+	};
+	8882466F126F21030027C811 /* ConsoleServer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {901, 845}}";
+			sepNavSelRange = "{1083, 36}";
+			sepNavVisRange = "{0, 1292}";
+		};
+	};
+	888246AF126F21030027C811 /* GetTime.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {3169, 2015}}";
+			sepNavSelRange = "{5593, 26}";
+			sepNavVisRange = "{3999, 1814}";
+		};
+	};
+	888246BA126F21030027C811 /* InternalPacket.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {943, 1482}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 701}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888246BD126F21030027C811 /* Kbhit.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1105}}";
+			sepNavSelRange = "{2495, 0}";
+			sepNavVisRange = "{2078, 569}";
+		};
+	};
+	888246CA126F21030027C811 /* MessageIdentifiers.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2343, 4433}}";
+			sepNavSelRange = "{5264, 16}";
+			sepNavVisRange = "{953, 969}";
+		};
+	};
+	888246E9126F21030027C811 /* PluginInterface.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 1131}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 474}";
+		};
+	};
+	888246EA126F21030027C811 /* PluginInterface2.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1783, 1950}}";
+			sepNavSelRange = "{7121, 79}";
+			sepNavVisRange = "{6549, 1500}";
+		};
+	};
+	888246EB126F21030027C811 /* PluginInterface2.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1664, 910}}";
+			sepNavSelRange = "{319, 0}";
+			sepNavVisRange = "{0, 1192}";
+		};
+	};
+	888246FE126F21030027C811 /* RakNetTypes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 5954}}";
+			sepNavSelRange = "{8628, 0}";
+			sepNavVisRange = "{8468, 512}";
+		};
+	};
+	888246FF126F21030027C811 /* RakNetTypes.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1153, 4238}}";
+			sepNavSelRange = "{3408, 0}";
+			sepNavVisRange = "{3208, 1087}";
+		};
+	};
+	88824701126F21030027C811 /* RakNetworkFactory.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 819}}";
+			sepNavSelRange = "{1789, 23}";
+			sepNavVisRange = "{862, 1525}";
+		};
+	};
+	88824704126F21030027C811 /* RakPeer.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1391, 91351}}";
+			sepNavSelRange = "{39933, 0}";
+			sepNavVisRange = "{39091, 1994}";
+		};
+	};
+	88824705126F21030027C811 /* RakPeerInterface.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2805, 8866}}";
+			sepNavSelRange = "{37834, 82}";
+			sepNavVisRange = "{36067, 3134}";
+		};
+	};
+	88824708126F21030027C811 /* RakString.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 3874}}";
+			sepNavSelRange = "{502, 0}";
+			sepNavVisRange = "{489, 987}";
+		};
+	};
+	88824709126F21030027C811 /* RakString.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 15678}}";
+			sepNavSelRange = "{961, 0}";
+			sepNavVisRange = "{1902, 489}";
+		};
+	};
+	8882470C126F21030027C811 /* Rand.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 741}}";
+			sepNavSelRange = "{234, 19}";
+			sepNavVisRange = "{61, 1533}";
+		};
+	};
+	8882470D126F21030027C811 /* Rand.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 3536}}";
+			sepNavSelRange = "{1716, 0}";
+			sepNavVisRange = "{7688, 976}";
+		};
+	};
+	88824712126F21030027C811 /* ReadyEvent.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {719, 7228}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 379}";
+		};
+	};
+	888248841270A45B0027C811 /* HomeScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 551}}";
+			sepNavSelRange = "{214, 13}";
+			sepNavVisRange = "{0, 233}";
+		};
+	};
+	888248851270A45B0027C811 /* HomeScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1608, 2080}}";
+			sepNavSelRange = "{2915, 0}";
+			sepNavVisRange = "{2267, 1294}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	8882489A1270A5B90027C811 /* LobbyScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 368}}";
+			sepNavSelRange = "{290, 10}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	8882489B1270A5B90027C811 /* LobbyScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 3328}}";
+			sepNavSelRange = "{1657, 11}";
+			sepNavVisRange = "{2922, 572}";
+		};
+	};
+	888248C51270A6BD0027C811 /* JumperController_.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 988}}";
+			sepNavSelRange = "{1614, 0}";
+			sepNavVisRange = "{147, 875}";
+		};
+	};
+	888248C61270A6BD0027C811 /* JumperController_.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 2340}}";
+			sepNavSelRange = "{1785, 8}";
+			sepNavVisRange = "{1634, 954}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248C71270A6BD0027C811 /* JumperMessages_.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 583}}";
+			sepNavSelRange = "{567, 0}";
+			sepNavVisRange = "{0, 567}";
+		};
+	};
+	888248C81270A6BD0027C811 /* JumperMessages_.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 1157}}";
+			sepNavSelRange = "{386, 646}";
+			sepNavVisRange = "{213, 1511}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248C91270A6BD0027C811 /* JumpScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 559}}";
+			sepNavSelRange = "{404, 0}";
+			sepNavVisRange = "{0, 411}";
+		};
+	};
+	888248CA1270A6BD0027C811 /* JumpScene.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2110, 23}\";\n            s = 0;\n        },\n                {\n            r = \"{2377, 211}\";\n            s = 0;\n        },\n                {\n            r = \"{2658, 333}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3061}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1612}}";
+			sepNavSelRange = "{1655, 0}";
+			sepNavVisRange = "{360, 967}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248CD1270A6BD0027C811 /* JumperView_.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 535}}";
+			sepNavSelRange = "{793, 0}";
+			sepNavVisRange = "{0, 865}";
+		};
+	};
+	888248CE1270A6BD0027C811 /* JumperView_.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 663}}";
+			sepNavSelRange = "{988, 0}";
+			sepNavVisRange = "{39, 891}";
+		};
+	};
+	888248CF1270A6BD0027C811 /* Platform.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 559}}";
+			sepNavSelRange = "{609, 0}";
+			sepNavVisRange = "{0, 662}";
+		};
+	};
+	888248D01270A6BD0027C811 /* Platform.mm */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1706, 149}\";\n            s = 0;\n        },\n                {\n            r = \"{1920, 454}\";\n            s = 0;\n        },\n                {\n            r = \"{2472, 251}\";\n            s = 0;\n        },\n                {\n            r = \"{3998, 51}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 4057}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1755}}";
+			sepNavSelRange = "{2193, 14}";
+			sepNavVisRange = "{1710, 694}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248D11270A6BD0027C811 /* JumperManager_.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 535}}";
+			sepNavSelRange = "{577, 0}";
+			sepNavVisRange = "{0, 577}";
+		};
+	};
+	888248D21270A6BD0027C811 /* JumperManager_.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 1547}}";
+			sepNavSelRange = "{1721, 0}";
+			sepNavVisRange = "{1309, 412}";
+		};
+	};
+	888248DA1270A6D30027C811 /* GameOverScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 573}}";
+			sepNavSelRange = "{387, 0}";
+			sepNavVisRange = "{0, 1251}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248DB1270A6D30027C811 /* GameOverScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 2522}}";
+			sepNavSelRange = "{5817, 747}";
+			sepNavVisRange = "{5213, 1382}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248DC1270A6D30027C811 /* JumperService_.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 598}}";
+			sepNavSelRange = "{1200, 0}";
+			sepNavVisRange = "{42, 1159}";
+		};
+	};
+	888248DD1270A6D30027C811 /* JumperService_.mm */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 10439}}";
+			sepNavSelRange = "{10003, 9}";
+			sepNavVisRange = "{9550, 780}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248DE1270A6D30027C811 /* RoomInfo_.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 535}}";
+			sepNavSelRange = "{493, 0}";
+			sepNavVisRange = "{0, 494}";
+		};
+	};
+	888248DF1270A6D30027C811 /* RoomInfo_.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 535}}";
+			sepNavSelRange = "{25, 0}";
+			sepNavVisRange = "{0, 362}";
+		};
+	};
+	888248E01270A6D30027C811 /* SceneManager_.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 535}}";
+			sepNavSelRange = "{569, 0}";
+			sepNavVisRange = "{0, 569}";
+		};
+	};
+	888248E11270A6D30027C811 /* SceneManager_.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 1079}}";
+			sepNavSelRange = "{1006, 9}";
+			sepNavVisRange = "{671, 456}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248E81270A6E70027C811 /* FighterManager_.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 535}}";
+			sepNavSelRange = "{828, 0}";
+			sepNavVisRange = "{0, 828}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248E91270A6E70027C811 /* FighterManager_.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1981, 99}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2725}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 2171}}";
+			sepNavSelRange = "{1586, 8}";
+			sepNavVisRange = "{1410, 455}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248EC1270A6E70027C811 /* FightScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 375}}";
+			sepNavSelRange = "{86, 0}";
+			sepNavVisRange = "{0, 297}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888248ED1270A6E70027C811 /* FightScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1062, 2015}}";
+			sepNavSelRange = "{1007, 15}";
+			sepNavVisRange = "{801, 1125}";
+		};
+	};
+	8884A95A12BE4C7B00C987EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 889CE865129EB1F20042B214 /* OFDelegatesContainer.mm */;
+		name = "OFDelegatesContainer.mm: 17";
+		rLen = 37;
+		rLoc = 648;
+		rType = 0;
+		vrLen = 1759;
+		vrLoc = 0;
+	};
+	8884A95B12BE4C7B00C987EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 889CE648129EB1EF0042B214 /* OpenFeint+Private.mm */;
+		name = "OpenFeint+Private.mm: 292";
+		rLen = 19;
+		rLoc = 9474;
+		rType = 0;
+		vrLen = 1044;
+		vrLoc = 8770;
+	};
+	8884A95C12BE4C7B00C987EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 889CE864129EB1F20042B214 /* OFDelegatesContainer.h */;
+		name = "OFDelegatesContainer.h: 17";
+		rLen = 29;
+		rLoc = 636;
+		rType = 0;
+		vrLen = 1557;
+		vrLoc = 0;
+	};
+	8884A95D12BE4C7B00C987EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 889CE644129EB1EF0042B214 /* OpenFeint+GameCenter.mm */;
+		name = "OpenFeint+GameCenter.mm: 159";
+		rLen = 0;
+		rLoc = 5300;
+		rType = 0;
+		vrLen = 964;
+		vrLoc = 4818;
+	};
+	8884A96712BE51ED00C987EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88951C551281B55E0099D342 /* NSArrayEx.m */;
+		name = "NSArrayEx.m: 17";
+		rLen = 0;
+		rLoc = 302;
+		rType = 0;
+		vrLen = 794;
+		vrLoc = 0;
+	};
+	8884A96812BE51ED00C987EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88939B7812A008E90007FF86 /* OpenFeintEx.mm */;
+		name = "OpenFeintEx.mm: 104";
+		rLen = 0;
+		rLoc = 2430;
+		rType = 0;
+		vrLen = 1145;
+		vrLoc = 1707;
+	};
+	8884A96912BE51ED00C987EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 888248DB1270A6D30027C811 /* GameOverScene.m */;
+		name = "GameOverScene.m: 146";
+		rLen = 0;
+		rLoc = 5596;
+		rType = 0;
+		vrLen = 1458;
+		vrLoc = 4821;
+	};
+	8884A96A12BE51ED00C987EF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 50F414EF1069373D002A0D5E /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/dendavydenko/Documents/KOTH/Client/KOTH/Resources/Info.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8884A96B12BE51ED00C987EF /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8844742312A28FD000BA1190 /* OFGameCenter.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			Leaderboards,
+			423954,
+		);
+		name = /Users/dendavydenko/Documents/KOTH/Client/KOTH/Resources/OFGameCenter.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8884A96C12BE51ED00C987EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 889CDB97129EA46F0042B214 /* openfeint_offline_config.xml */;
+		name = "openfeint_offline_config.xml: 171";
+		rLen = 0;
+		rLoc = 5820;
+		rType = 0;
+		vrLen = 1498;
+		vrLoc = 116;
+	};
+	8884A98212BE565300C987EF /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 889CDB97129EA46F0042B214 /* openfeint_offline_config.xml */;
+		name = "openfeint_offline_config.xml: 12";
+		rLen = 0;
+		rLoc = 464;
+		rType = 0;
+		vrLen = 1540;
+		vrLoc = 12;
+	};
+	8887AC4F1280654C00F2B8D7 /* GameScene.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 503}}";
+			sepNavSelRange = "{271, 7}";
+			sepNavVisRange = "{0, 369}";
+		};
+	};
+	8887AC501280654C00F2B8D7 /* GameScene.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 988}}";
+			sepNavSelRange = "{389, 14}";
+			sepNavVisRange = "{384, 1007}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	888EDE4A12BE5865009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 889CDB97129EA46F0042B214 /* openfeint_offline_config.xml */;
+		name = "openfeint_offline_config.xml: 22";
+		rLen = 0;
+		rLoc = 795;
+		rType = 0;
+		vrLen = 1606;
+		vrLoc = 0;
+	};
+	888EDE5812BE5A35009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 889CDB97129EA46F0042B214 /* openfeint_offline_config.xml */;
+		name = "openfeint_offline_config.xml: 23";
+		rLen = 0;
+		rLoc = 831;
+		rType = 0;
+		vrLen = 1606;
+		vrLoc = 0;
+	};
+	888EDE5912BE5A35009D30EA /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8844742312A28FD000BA1190 /* OFGameCenter.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			Leaderboards,
+			423964,
+		);
+		name = /Users/dendavydenko/Documents/KOTH/Client/KOTH/Resources/OFGameCenter.plist;
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	888EDE5A12BE5A35009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 888248DB1270A6D30027C811 /* GameOverScene.m */;
+		name = "GameOverScene.m: 157";
+		rLen = 747;
+		rLoc = 5817;
+		rType = 0;
+		vrLen = 1382;
+		vrLoc = 5213;
+	};
+	888EDE5B12BE5A35009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88939B7812A008E90007FF86 /* OpenFeintEx.mm */;
+		name = "OpenFeintEx.mm: 296";
+		rLen = 108;
+		rLoc = 6735;
+		rType = 0;
+		vrLen = 2496;
+		vrLoc = 5600;
+	};
+	888EDE5C12BE5A35009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 888248841270A45B0027C811 /* HomeScene.h */;
+		name = "HomeScene.h: 17";
+		rLen = 13;
+		rLoc = 214;
+		rType = 0;
+		vrLen = 233;
+		vrLoc = 0;
+	};
+	888EDE5D12BE5A35009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 888248851270A45B0027C811 /* HomeScene.m */;
+		name = "HomeScene.m: 104";
+		rLen = 0;
+		rLoc = 2462;
+		rType = 0;
+		vrLen = 1518;
+		vrLoc = 2419;
+	};
+	888EDE5E12BE5A35009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 888248851270A45B0027C811 /* HomeScene.m */;
+		name = "HomeScene.m: 104";
+		rLen = 0;
+		rLoc = 2462;
+		rType = 0;
+		vrLen = 1181;
+		vrLoc = 508;
+	};
+	888EDE6F12BE5AD8009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8871849C12BAA85F00446ED3 /* OFHighScore.mm */;
+		name = "OFHighScore.mm: 49";
+		rLen = 0;
+		rLoc = 1362;
+		rType = 0;
+		vrLen = 1015;
+		vrLoc = 891;
+	};
+	888EDE7012BE5AD8009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 888244C6126DC2040027C811 /* GameCenter.m */;
+		name = "GameCenter.m: 32";
+		rLen = 0;
+		rLoc = 578;
+		rType = 0;
+		vrLen = 1646;
+		vrLoc = 1369;
+	};
+	888EDE7112BE5AD8009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 888248851270A45B0027C811 /* HomeScene.m */;
+		name = "HomeScene.m: 106";
+		rLen = 0;
+		rLoc = 2462;
+		rType = 0;
+		vrLen = 1294;
+		vrLoc = 2267;
+	};
+	888EDE7212BE5AD8009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88939B7812A008E90007FF86 /* OpenFeintEx.mm */;
+		name = "OpenFeintEx.mm: 327";
+		rLen = 0;
+		rLoc = 5319;
+		rType = 0;
+		vrLen = 1603;
+		vrLoc = 4410;
+	};
+	888EDE7312BE5AD8009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88939B7812A008E90007FF86 /* OpenFeintEx.mm */;
+		name = "OpenFeintEx.mm: 242";
+		rLen = 0;
+		rLoc = 5341;
+		rType = 0;
+		vrLen = 1909;
+		vrLoc = 6413;
+	};
+	888EDE7B12BE5C4E009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 888248841270A45B0027C811 /* HomeScene.h */;
+		name = "HomeScene.h: 17";
+		rLen = 13;
+		rLoc = 214;
+		rType = 0;
+		vrLen = 233;
+		vrLoc = 0;
+	};
+	888EDE7C12BE5C4E009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 888248851270A45B0027C811 /* HomeScene.m */;
+		name = "HomeScene.m: 104";
+		rLen = 0;
+		rLoc = 2462;
+		rType = 0;
+		vrLen = 1294;
+		vrLoc = 2267;
+	};
+	888EDE7D12BE5C4E009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88939B7812A008E90007FF86 /* OpenFeintEx.mm */;
+		rLen = 0;
+		rLoc = 325;
+		rType = 1;
+	};
+	888EDE7E12BE5C4E009D30EA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 88939B7812A008E90007FF86 /* OpenFeintEx.mm */;
+		name = "OpenFeintEx.mm: 326";
+		rLen = 0;
+		rLoc = 8028;
+		rType = 0;
+		vrLen = 2009;
+		vrLoc = 6095;
+	};
+	888EE5DA12A95D64005B0B47 /* SimpleHttpClient.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 390}}";
+			sepNavSelRange = "{374, 0}";
+			sepNavVisRange = "{0, 789}";
+		};
+	};
+	888EE5DB12A95D64005B0B47 /* SimpleHttpClient.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 975}}";
+			sepNavSelRange = "{905, 0}";
+			sepNavVisRange = "{219, 961}";
+		};
+	};
+	88939B4012A004E30007FF86 /* GameOptions.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 549}}";
+			sepNavSelRange = "{514, 0}";
+			sepNavVisRange = "{0, 625}";
+		};
+	};
+	88939B4112A004E30007FF86 /* GameOptions.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1235}}";
+			sepNavSelRange = "{789, 0}";
+			sepNavVisRange = "{139, 1480}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88939B7712A008E90007FF86 /* OpenFeintEx.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 949}}";
+			sepNavSelRange = "{1983, 37}";
+			sepNavVisRange = "{960, 1066}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88939B7812A008E90007FF86 /* OpenFeintEx.mm */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1605, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{1637, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{1673, 1}\";\n            s = 0;\n        },\n                {\n            r = \"{1708, 54}\";\n            s = 0;\n        },\n                {\n            r = \"{1812, 161}\";\n            s = 0;\n        },\n                {\n            r = \"{2016, 148}\";\n            s = 0;\n        },\n                {\n            r = \"{3064, 148}\";\n            s = 0;\n        },\n                {\n            r = \"{3915, 43}\";\n            s = 0;\n        },\n                {\n            r = \"{3995, 42}\";\n            s = 0;\n        },\n                {\n            r = \"{4056, 24}\";\n            s = 0;\n        },\n                {\n            r = \"{4114, 15}\";\n            s = 0;\n        },\n                {\n            r = \"{4162, 20}\";\n            s = 0;\n        },\n                {\n            r = \"{4233, 188}\";\n            s = 0;\n        },\n                {\n            r = \"{4477, 592}\";\n            s = 0;\n        },\n                {\n            r = \"{5109, 36}\";\n            s = 0;\n        },\n                {\n            r = \"{5236, 105}\";\n            s = 0;\n        },\n                {\n            r = \"{5399, 150}\";\n            s = 0;\n        },\n                {\n            r = \"{5601, 492}\";\n            s = 0;\n        },\n                {\n            r = \"{6127, 228}\";\n            s = 0;\n        },\n                {\n            r = \"{6414, 318}\";\n            s = 0;\n        },\n                {\n            r = \"{9228, 649}\";\n            s = 0;\n        },\n                {\n            r = \"{9944, 321}\";\n            s = 0;\n        },\n                {\n            r = \"{10293, 343}\";\n            s = 0;\n        },\n                {\n            r = \"{10664, 155}\";\n            s = 0;\n        },\n                {\n            r = \"{11035, 127}\";\n            s = 0;\n        },\n                {\n            r = \"{11190, 129}\";\n            s = 0;\n        },\n                {\n            r = \"{11345, 202}\";\n            s = 0;\n        },\n                {\n            r = \"{11566, 196}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 11771}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {936, 3588}}";
+			sepNavSelRange = "{5281, 0}";
+			sepNavVisRange = "{3892, 1491}";
+		};
+	};
+	88951C541281B55E0099D342 /* NSArrayEx.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 546}}";
+			sepNavSelRange = "{292, 0}";
+			sepNavVisRange = "{0, 625}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88951C551281B55E0099D342 /* NSArrayEx.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1209}}";
+			sepNavSelRange = "{302, 0}";
+			sepNavVisRange = "{0, 794}";
+		};
+	};
+	8899D532127F1F200022AF19 /* CCMultiSprite.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 560}}";
+			sepNavSelRange = "{224, 8}";
+			sepNavVisRange = "{0, 434}";
+		};
+	};
+	8899D533127F1F200022AF19 /* CCMultiSprite.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 650}}";
+			sepNavSelRange = "{624, 0}";
+			sepNavVisRange = "{340, 401}";
+		};
+	};
+	8899D563127FEBE40022AF19 /* EnvironmentLayer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 767}}";
+			sepNavSelRange = "{456, 0}";
+			sepNavVisRange = "{269, 1064}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	8899D564127FEBE40022AF19 /* EnvironmentLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 3094}}";
+			sepNavSelRange = "{4645, 11}";
+			sepNavVisRange = "{4762, 806}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	8899D56A127FF5810022AF19 /* PlayerColor.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 536}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{0, 515}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	889CA92212731B6800C6E3A1 /* Server.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {964, 1547}}";
+			sepNavSelRange = "{2086, 28}";
+			sepNavVisRange = "{0, 804}";
+		};
+	};
+	889CA92312731B6800C6E3A1 /* Server.mm */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{558, 112}\";\n            s = 0;\n        },\n                {\n            r = \"{697, 189}\";\n            s = 0;\n        },\n                {\n            r = \"{2260, 103}\";\n            s = 0;\n        },\n                {\n            r = \"{2693, 399}\";\n            s = 0;\n        },\n                {\n            r = \"{3113, 93}\";\n            s = 0;\n        },\n                {\n            r = \"{3229, 47}\";\n            s = 0;\n        },\n                {\n            r = \"{3760, 333}\";\n            s = 0;\n        },\n                {\n            r = \"{4163, 42}\";\n            s = 0;\n        },\n                {\n            r = \"{4273, 41}\";\n            s = 0;\n        },\n                {\n            r = \"{4356, 244}\";\n            s = 0;\n        },\n                {\n            r = \"{4654, 34}\";\n            s = 0;\n        },\n                {\n            r = \"{4770, 310}\";\n            s = 0;\n        },\n                {\n            r = \"{5136, 35}\";\n            s = 0;\n        },\n                {\n            r = \"{5225, 34}\";\n            s = 0;\n        },\n                {\n            r = \"{5333, 44}\";\n            s = 0;\n        },\n                {\n            r = \"{5451, 44}\";\n            s = 0;\n        },\n                {\n            r = \"{5530, 299}\";\n            s = 0;\n        },\n                {\n            r = \"{5847, 1550}\";\n            s = 0;\n        },\n                {\n            r = \"{9096, 275}\";\n            s = 0;\n        },\n                {\n            r = \"{9415, 1172}\";\n            s = 0;\n        },\n                {\n            r = \"{10653, 173}\";\n            s = 0;\n        },\n                {\n            r = \"{10890, 533}\";\n            s = 0;\n        },\n                {\n            r = \"{11493, 325}\";\n            s = 0;\n        },\n                {\n            r = \"{11887, 669}\";\n            s = 0;\n        },\n                {\n            r = \"{12619, 992}\";\n            s = 0;\n        },\n                {\n            r = \"{13675, 868}\";\n            s = 0;\n        },\n                {\n            r = \"{14607, 650}\";\n            s = 0;\n        },\n                {\n            r = \"{15321, 108}\";\n            s = 0;\n        },\n                {\n            r = \"{15480, 90}\";\n            s = 0;\n        },\n                {\n            r = \"{15629, 102}\";\n            s = 0;\n        },\n                {\n            r = \"{15796, 111}\";\n            s = 0;\n        },\n                {\n            r = \"{15970, 108}\";\n            s = 0;\n        },\n                {\n            r = \"{16127, 87}\";\n            s = 0;\n        },\n                {\n            r = \"{16265, 90}\";\n            s = 0;\n        },\n                {\n            r = \"{16404, 87}\";\n            s = 0;\n        },\n                {\n            r = \"{16560, 117}\";\n            s = 0;\n        },\n                {\n            r = \"{16746, 117}\";\n            s = 0;\n        },\n                {\n            r = \"{16881, 420}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 17309}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 3133}}";
+			sepNavSelRange = "{3614, 0}";
+			sepNavVisRange = "{3460, 298}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	889CDB97129EA46F0042B214 /* openfeint_offline_config.xml */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 2509}}";
+			sepNavSelRange = "{831, 0}";
+			sepNavVisRange = "{0, 1606}";
+		};
+	};
+	889CE644129EB1EF0042B214 /* OpenFeint+GameCenter.mm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = "OpenFeint+GameCenter.mm";
+		path = "/Users/dendavydenko/Documents/KOTH/Client/KOTH/OpenFeint/api/internal/OpenFeint/OpenFeint+GameCenter.mm";
+		sourceTree = "<absolute>";
+	};
+	889CE648129EB1EF0042B214 /* OpenFeint+Private.mm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = "OpenFeint+Private.mm";
+		path = "/Users/dendavydenko/Documents/KOTH/Client/KOTH/OpenFeint/api/internal/OpenFeint/OpenFeint+Private.mm";
+		sourceTree = "<absolute>";
+	};
+	889CE864129EB1F20042B214 /* OFDelegatesContainer.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = OFDelegatesContainer.h;
+		path = /Users/dendavydenko/Documents/KOTH/Client/KOTH/OpenFeint/delegates/OFDelegatesContainer.h;
+		sourceTree = "<absolute>";
+	};
+	889CE865129EB1F20042B214 /* OFDelegatesContainer.mm */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.cpp.objcpp;
+		name = OFDelegatesContainer.mm;
+		path = /Users/dendavydenko/Documents/KOTH/Client/KOTH/OpenFeint/delegates/OFDelegatesContainer.mm;
+		sourceTree = "<absolute>";
+	};
+	889E1D0E1271923400C99FFB /* GameOverInfo_.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 637}}";
+			sepNavSelRange = "{1008, 0}";
+			sepNavVisRange = "{140, 869}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	889E1D0F1271923400C99FFB /* GameOverInfo_.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 1313}}";
+			sepNavSelRange = "{1598, 0}";
+			sepNavVisRange = "{812, 787}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88B663FA127569290072BB6B /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			88B6655F1276AE230072BB6B /* PBXBookmark */,
+		);
+		name = Root;
+	};
+	88B6655F1276AE230072BB6B /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 888248ED1270A6E70027C811 /* FightScene.m */;
+	};
+	88D1C50812798F910091CBCB /* CCLabelTTFx.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 416}}";
+			sepNavSelRange = "{317, 12}";
+			sepNavVisRange = "{0, 949}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88D1C50912798F910091CBCB /* CCLabelTTFx.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 1014}}";
+			sepNavSelRange = "{1499, 0}";
+			sepNavVisRange = "{921, 807}";
+		};
+	};
+	88D1C843127C3E590091CBCB /* Player.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 949}}";
+			sepNavSelRange = "{1191, 0}";
+			sepNavVisRange = "{299, 1043}";
+		};
+	};
+	88D1C844127C3E5A0091CBCB /* Player.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{677, 72}\";\n            s = 0;\n        },\n                {\n            r = \"{856, 213}\";\n            s = 0;\n        },\n                {\n            r = \"{1466, 136}\";\n            s = 0;\n        },\n                {\n            r = \"{1636, 39}\";\n            s = 0;\n        },\n                {\n            r = \"{1735, 220}\";\n            s = 0;\n        },\n                {\n            r = \"{1991, 112}\";\n            s = 0;\n        },\n                {\n            r = \"{2137, 72}\";\n            s = 0;\n        },\n                {\n            r = \"{2235, 69}\";\n            s = 0;\n        },\n                {\n            r = \"{2854, 318}\";\n            s = 0;\n        },\n                {\n            r = \"{3191, 101}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 3301}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1352}}";
+			sepNavSelRange = "{1156, 0}";
+			sepNavVisRange = "{784, 634}";
+		};
+	};
+	88D1C85B127C3F1B0091CBCB /* Jumper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1092}}";
+			sepNavSelRange = "{408, 11}";
+			sepNavVisRange = "{366, 523}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88D1C85C127C3F1B0091CBCB /* Jumper.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{851, 129}\";\n            s = 0;\n        },\n                {\n            r = \"{1002, 15}\";\n            s = 0;\n        },\n                {\n            r = \"{1040, 15}\";\n            s = 0;\n        },\n                {\n            r = \"{2193, 37}\";\n            s = 0;\n        },\n                {\n            r = \"{2267, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{2352, 44}\";\n            s = 0;\n        },\n                {\n            r = \"{3365, 138}\";\n            s = 0;\n        },\n                {\n            r = \"{3699, 353}\";\n            s = 0;\n        },\n                {\n            r = \"{4106, 428}\";\n            s = 0;\n        },\n                {\n            r = \"{4560, 16}\";\n            s = 0;\n        },\n                {\n            r = \"{5627, 993}\";\n            s = 0;\n        },\n                {\n            r = \"{7208, 103}\";\n            s = 0;\n        },\n                {\n            r = \"{7334, 1047}\";\n            s = 0;\n        },\n                {\n            r = \"{8406, 46}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 8569}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {929, 3016}}";
+			sepNavSelRange = "{4905, 0}";
+			sepNavVisRange = "{4437, 618}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88D1C8DC127C730D0091CBCB /* GameController.h */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{579, 536}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 2289}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1040}}";
+			sepNavSelRange = "{279, 39}";
+			sepNavVisRange = "{0, 726}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88D1C8DD127C730D0091CBCB /* GameController.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{891, 328}\";\n            s = 0;\n        },\n                {\n            r = \"{1262, 1305}\";\n            s = 0;\n        },\n                {\n            r = \"{3003, 64}\";\n            s = 0;\n        },\n                {\n            r = \"{3132, 382}\";\n            s = 0;\n        },\n                {\n            r = \"{4097, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{4279, 170}\";\n            s = 0;\n        },\n                {\n            r = \"{4475, 165}\";\n            s = 0;\n        },\n                {\n            r = \"{4714, 161}\";\n            s = 0;\n        },\n                {\n            r = \"{4893, 160}\";\n            s = 0;\n        },\n                {\n            r = \"{5462, 342}\";\n            s = 0;\n        },\n                {\n            r = \"{5827, 29}\";\n            s = 0;\n        },\n                {\n            r = \"{5905, 318}\";\n            s = 0;\n        },\n                {\n            r = \"{6245, 282}\";\n            s = 0;\n        },\n                {\n            r = \"{6561, 1134}\";\n            s = 0;\n        },\n                {\n            r = \"{7783, 1041}\";\n            s = 0;\n        },\n                {\n            r = \"{8875, 390}\";\n            s = 0;\n        },\n                {\n            r = \"{9316, 211}\";\n            s = 0;\n        },\n                {\n            r = \"{9657, 1060}\";\n            s = 0;\n        },\n                {\n            r = \"{10833, 344}\";\n            s = 0;\n        },\n                {\n            r = \"{12560, 1166}\";\n            s = 0;\n        },\n                {\n            r = \"{13844, 236}\";\n            s = 0;\n        },\n                {\n            r = \"{14153, 387}\";\n            s = 0;\n        },\n                {\n            r = \"{14620, 262}\";\n            s = 0;\n        },\n                {\n            r = \"{14925, 203}\";\n            s = 0;\n        },\n                {\n            r = \"{15152, 285}\";\n            s = 0;\n        },\n                {\n            r = \"{15467, 154}\";\n            s = 0;\n        },\n                {\n            r = \"{15688, 105}\";\n            s = 0;\n        },\n                {\n            r = \"{17145, 57}\";\n            s = 0;\n        },\n                {\n            r = \"{17250, 102}\";\n            s = 0;\n        },\n                {\n            r = \"{17371, 65}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 17444}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {1015, 2951}}";
+			sepNavSelRange = "{6160, 0}";
+			sepNavVisRange = "{5983, 355}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88D3B3BB129AB38F0016193D /* NSArrayEx.h:17 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 88951C541281B55E0099D342 /* NSArrayEx.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 17;
+		modificationTime = 314465265.678445;
+		originalNumberOfMultipleMatches = 1;
+		state = 2;
+	};
+	88DC8B371297CD5E00E4DEE4 /* SoundManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 572}}";
+			sepNavSelRange = "{626, 15}";
+			sepNavVisRange = "{0, 736}";
+		};
+	};
+	88DC8B381297CD5E00E4DEE4 /* SoundManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1339}}";
+			sepNavSelRange = "{1364, 0}";
+			sepNavVisRange = "{1031, 1009}";
+		};
+	};
+	88E7A24D12A51CB800E9E906 /* Advert.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 573}}";
+			sepNavSelRange = "{517, 0}";
+			sepNavVisRange = "{0, 631}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	88E7A24E12A51CB800E9E906 /* Advert.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 1690}}";
+			sepNavSelRange = "{618, 0}";
+			sepNavVisRange = "{384, 772}";
+		};
+	};
+	88F76BFD126DB37200C3E4E8 /* KOTH */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = KOTH;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	88F76C06126DB37500C3E4E8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = KOTH;
+			};
+		};
+	};
+	88F76C07126DB37500C3E4E8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	E0504E6D122D44A2005B74CB /* CCAction.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 2288}}";
+			sepNavSelRange = "{2228, 0}";
+			sepNavVisRange = "{1588, 1459}";
+		};
+	};
+	E0504E6E122D44A2005B74CB /* CCAction.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 4693}}";
+			sepNavSelRange = "{1517, 0}";
+			sepNavVisRange = "{2109, 684}";
+		};
+	};
+	E0504E70122D44A2005B74CB /* CCActionCamera.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1335, 1742}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2514, 1029}";
+		};
+	};
+	E0504E71122D44A2005B74CB /* CCActionEase.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 2080}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1561}";
+		};
+	};
+	E0504E72122D44A2005B74CB /* CCActionEase.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 6396}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1442}";
+		};
+	};
+	E0504E74122D44A2005B74CB /* CCActionGrid.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1118, 4797}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{4654, 566}";
+		};
+	};
+	E0504E77122D44A2005B74CB /* CCActionInstant.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 2275}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3422, 1024}";
+		};
+	};
+	E0504E78122D44A2005B74CB /* CCActionInstant.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 4914}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1445}";
+		};
+	};
+	E0504E79122D44A2005B74CB /* CCActionInterval.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 5031}}";
+			sepNavSelRange = "{5859, 8}";
+			sepNavVisRange = "{5484, 1276}";
+		};
+	};
+	E0504E7A122D44A2005B74CB /* CCActionInterval.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 15353}}";
+			sepNavSelRange = "{17912, 0}";
+			sepNavVisRange = "{17800, 420}";
+		};
+	};
+	E0504E7B122D44A2005B74CB /* CCActionManager.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1125, 1547}}";
+			sepNavSelRange = "{3272, 14}";
+			sepNavVisRange = "{2421, 1214}";
+		};
+	};
+	E0504E7C122D44A2005B74CB /* CCActionManager.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {985, 4355}}";
+			sepNavSelRange = "{8026, 0}";
+			sepNavVisRange = "{7814, 1415}";
+		};
+	};
+	E0504E85122D44A2005B74CB /* CCAtlasNode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {999, 1131}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1780, 1299}";
+		};
+	};
+	E0504E86122D44A2005B74CB /* CCAtlasNode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 2418}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1598}";
+		};
+	};
+	E0504E87122D44A2005B74CB /* CCBlockSupport.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 832}}";
+			sepNavSelRange = "{1712, 19}";
+			sepNavVisRange = "{1180, 782}";
+		};
+	};
+	E0504E88122D44A2005B74CB /* CCBlockSupport.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 611}}";
+			sepNavSelRange = "{1350, 0}";
+			sepNavVisRange = "{260, 1203}";
+		};
+	};
+	E0504E8A122D44A2005B74CB /* CCCamera.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 1456}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1255, 589}";
+		};
+	};
+	E0504E8C122D44A2005B74CB /* CCCompatibility.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 7228}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2678, 491}";
+		};
+	};
+	E0504E8F122D44A2005B74CB /* CCConfiguration.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 2353}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1736, 1051}";
+		};
+	};
+	E0504E90122D44A2005B74CB /* CCDirector.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 3705}}";
+			sepNavSelRange = "{1207, 20}";
+			sepNavVisRange = "{0, 1661}";
+		};
+	};
+	E0504E91122D44A2005B74CB /* CCDirector.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{3184, 119}\";\n            s = 0;\n        },\n                {\n            r = \"{3319, 610}\";\n            s = 0;\n        },\n                {\n            r = \"{3950, 198}\";\n            s = 0;\n        },\n                {\n            r = \"{4179, 743}\";\n            s = 0;\n        },\n                {\n            r = \"{4969, 18}\";\n            s = 0;\n        },\n                {\n            r = \"{5018, 364}\";\n            s = 0;\n        },\n                {\n            r = \"{5449, 80}\";\n            s = 0;\n        },\n                {\n            r = \"{5613, 22}\";\n            s = 0;\n        },\n                {\n            r = \"{5656, 48}\";\n            s = 0;\n        },\n                {\n            r = \"{5763, 959}\";\n            s = 0;\n        },\n                {\n            r = \"{6763, 111}\";\n            s = 0;\n        },\n                {\n            r = \"{6911, 180}\";\n            s = 0;\n        },\n                {\n            r = \"{7173, 22}\";\n            s = 0;\n        },\n                {\n            r = \"{7239, 266}\";\n            s = 0;\n        },\n                {\n            r = \"{7587, 71}\";\n            s = 0;\n        },\n                {\n            r = \"{7701, 71}\";\n            s = 0;\n        },\n                {\n            r = \"{7793, 27}\";\n            s = 0;\n        },\n                {\n            r = \"{7849, 27}\";\n            s = 0;\n        },\n                {\n            r = \"{7909, 27}\";\n            s = 0;\n        },\n                {\n            r = \"{7988, 90}\";\n            s = 0;\n        },\n                {\n            r = \"{8160, 236}\";\n            s = 0;\n        },\n                {\n            r = \"{8439, 241}\";\n            s = 0;\n        },\n                {\n            r = \"{8721, 168}\";\n            s = 0;\n        },\n                {\n            r = \"{8910, 233}\";\n            s = 0;\n        },\n                {\n            r = \"{9159, 823}\";\n            s = 0;\n        },\n                {\n            r = \"{10007, 652}\";\n            s = 0;\n        },\n                {\n            r = \"{10677, 165}\";\n            s = 0;\n        },\n                {\n            r = \"{10861, 219}\";\n            s = 0;\n        },\n                {\n            r = \"{11107, 59}\";\n            s = 0;\n        },\n                {\n            r = \"{11192, 58}\";\n            s = 0;\n        },\n                {\n            r = \"{11308, 65}\";\n            s = 0;\n        },\n                {\n            r = \"{11488, 360}\";\n            s = 0;\n        },\n                {\n            r = \"{11984, 865}\";\n            s = 0;\n        },\n                {\n            r = \"{12907, 141}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13064}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {872, 3107}}";
+			sepNavSelRange = "{4376, 54}";
+			sepNavVisRange = "{4256, 439}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	E0504E92122D44A2005B74CB /* CCDrawingPrimitives.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1307, 1196}}";
+			sepNavSelRange = "{1675, 10}";
+			sepNavVisRange = "{1163, 1103}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	E0504E93122D44A2005B74CB /* CCDrawingPrimitives.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1083, 3419}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{4197, 1414}";
+		};
+	};
+	E0504E98122D44A2005B74CB /* CCLabelAtlas.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1132, 806}}";
+			sepNavSelRange = "{1714, 12}";
+			sepNavVisRange = "{1086, 1767}";
+		};
+	};
+	E0504E99122D44A2005B74CB /* CCLabelAtlas.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {978, 2431}}";
+			sepNavSelRange = "{1946, 0}";
+			sepNavVisRange = "{852, 1419}";
+		};
+	};
+	E0504E9A122D44A2005B74CB /* CCLabelBMFont.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 2470}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3332, 1179}";
+		};
+	};
+	E0504E9B122D44A2005B74CB /* CCLabelBMFont.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 8502}}";
+			sepNavSelRange = "{12983, 30}";
+			sepNavVisRange = "{12029, 1029}";
+		};
+	};
+	E0504E9C122D44A2005B74CB /* CCLabelTTF.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1104, 806}}";
+			sepNavSelRange = "{1521, 8}";
+			sepNavVisRange = "{852, 1823}";
+		};
+	};
+	E0504E9D122D44A2005B74CB /* CCLabelTTF.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1097, 1508}}";
+			sepNavSelRange = "{1896, 7}";
+			sepNavVisRange = "{1411, 1320}";
+		};
+	};
+	E0504E9F122D44A2005B74CB /* CCLayer.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 5486}}";
+			sepNavSelRange = "{2650, 23}";
+			sepNavVisRange = "{2644, 858}";
+		};
+	};
+	E0504EA0122D44A2005B74CB /* ccMacros.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 2730}}";
+			sepNavSelRange = "{5078, 0}";
+			sepNavVisRange = "{2972, 673}";
+		};
+	};
+	E0504EA1122D44A2005B74CB /* CCMenu.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 1144}}";
+			sepNavSelRange = "{1756, 6}";
+			sepNavVisRange = "{1328, 803}";
+		};
+	};
+	E0504EA3122D44A2005B74CB /* CCMenuItem.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 4290}}";
+			sepNavSelRange = "{2805, 8}";
+			sepNavVisRange = "{2534, 417}";
+		};
+	};
+	E0504EA4122D44A2005B74CB /* CCMenuItem.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1363, 8853}}";
+			sepNavSelRange = "{8772, 71}";
+			sepNavVisRange = "{8414, 643}";
+		};
+	};
+	E0504EA7122D44A2005B74CB /* CCNode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 6435}}";
+			sepNavSelRange = "{6048, 7}";
+			sepNavVisRange = "{5223, 2491}";
+		};
+	};
+	E0504EA8122D44A2005B74CB /* CCNode.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 10556}}";
+			sepNavSelRange = "{16660, 0}";
+			sepNavVisRange = "{16368, 659}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	E0504EB3122D44A3005B74CB /* CCProgressTimer.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 1079}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{1534, 1354}";
+		};
+	};
+	E0504EB5122D44A3005B74CB /* CCProtocols.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 1469}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2452, 1185}";
+		};
+	};
+	E0504EB8122D44A3005B74CB /* CCRibbon.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 1430}}";
+			sepNavSelRange = "{2610, 4}";
+			sepNavVisRange = "{2326, 1041}";
+		};
+	};
+	E0504EBD122D44A3005B74CB /* CCScheduler.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 7826}}";
+			sepNavSelRange = "{3660, 0}";
+			sepNavVisRange = "{3267, 482}";
+		};
+	};
+	E0504EBE122D44A3005B74CB /* CCSprite.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1048, 4420}}";
+			sepNavSelRange = "{3451, 6}";
+			sepNavVisRange = "{2220, 2103}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	E0504EBF122D44A3005B74CB /* CCSprite.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{2672, 73}\";\n            s = 0;\n        },\n                {\n            r = \"{2912, 71}\";\n            s = 0;\n        },\n                {\n            r = \"{3042, 71}\";\n            s = 0;\n        },\n                {\n            r = \"{3175, 150}\";\n            s = 0;\n        },\n                {\n            r = \"{3389, 61}\";\n            s = 0;\n        },\n                {\n            r = \"{3514, 69}\";\n            s = 0;\n        },\n                {\n            r = \"{3661, 77}\";\n            s = 0;\n        },\n                {\n            r = \"{3845, 59}\";\n            s = 0;\n        },\n                {\n            r = \"{5426, 169}\";\n            s = 0;\n        },\n                {\n            r = \"{6006, 239}\";\n            s = 0;\n        },\n                {\n            r = \"{6304, 192}\";\n            s = 0;\n        },\n                {\n            r = \"{6556, 221}\";\n            s = 0;\n        },\n                {\n            r = \"{6842, 437}\";\n            s = 0;\n        },\n                {\n            r = \"{7343, 363}\";\n            s = 0;\n        },\n                {\n            r = \"{7782, 108}\";\n            s = 0;\n        },\n                {\n            r = \"{7974, 170}\";\n            s = 0;\n        },\n                {\n            r = \"{8250, 57}\";\n            s = 0;\n        },\n                {\n            r = \"{8337, 232}\";\n            s = 0;\n        },\n                {\n            r = \"{8590, 64}\";\n            s = 0;\n        },\n                {\n            r = \"{8680, 513}\";\n            s = 0;\n        },\n                {\n            r = \"{9248, 116}\";\n            s = 0;\n        },\n                {\n            r = \"{9454, 35}\";\n            s = 0;\n        },\n                {\n            r = \"{9526, 66}\";\n            s = 0;\n        },\n                {\n            r = \"{9631, 146}\";\n            s = 0;\n        },\n                {\n            r = \"{9882, 1232}\";\n            s = 0;\n        },\n                {\n            r = \"{11158, 1831}\";\n            s = 0;\n        },\n                {\n            r = \"{13016, 3243}\";\n            s = 0;\n        },\n                {\n            r = \"{16505, 138}\";\n            s = 0;\n        },\n                {\n            r = \"{16690, 1328}\";\n            s = 0;\n        },\n                {\n            r = \"{19197, 161}\";\n            s = 0;\n        },\n                {\n            r = \"{19764, 174}\";\n            s = 0;\n        },\n                {\n            r = \"{20241, 53}\";\n            s = 0;\n        },\n                {\n            r = \"{20328, 53}\";\n            s = 0;\n        },\n                {\n            r = \"{20413, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{20495, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{20575, 48}\";\n            s = 0;\n        },\n                {\n            r = \"{20655, 50}\";\n            s = 0;\n        },\n                {\n            r = \"{20747, 59}\";\n            s = 0;\n        },\n                {\n            r = \"{20855, 126}\";\n            s = 0;\n        },\n                {\n            r = \"{21251, 140}\";\n            s = 0;\n        },\n                {\n            r = \"{21613, 17}\";\n            s = 0;\n        },\n                {\n            r = \"{21715, 485}\";\n            s = 0;\n        },\n                {\n            r = \"{22223, 19}\";\n            s = 0;\n        },\n                {\n            r = \"{22285, 191}\";\n            s = 0;\n        },\n                {\n            r = \"{22500, 71}\";\n            s = 0;\n        },\n                {\n            r = \"{22610, 206}\";\n            s = 0;\n        },\n                {\n            r = \"{22861, 90}\";\n            s = 0;\n        },\n                {\n            r = \"{22984, 28}\";\n            s = 0;\n        },\n                {\n            r = \"{23146, 391}\";\n            s = 0;\n        },\n                {\n            r = \"{23615, 280}\";\n            s = 0;\n        },\n                {\n            r = \"{23947, 114}\";\n            s = 0;\n        },\n                {\n            r = \"{24098, 67}\";\n            s = 0;\n        },\n                {\n            r = \"{24211, 123}\";\n            s = 0;\n        },\n                {\n            r = \"{24396, 132}\";\n            s = 0;\n        },\n                {\n            r = \"{24607, 455}\";\n            s = 0;\n        },\n                {\n            r = \"{25107, 364}\";\n            s = 0;\n        },\n                {\n            r = \"{25499, 19}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 25526}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {872, 4992}}";
+			sepNavSelRange = "{5069, 0}";
+			sepNavVisRange = "{2136, 1039}";
+		};
+	};
+	E0504EC0122D44A3005B74CB /* CCSpriteBatchNode.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1419, 1872}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{4651, 1741}";
+		};
+	};
+	E0504EC1122D44A3005B74CB /* CCSpriteBatchNode.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1804, 84}\";\n            s = 0;\n        },\n                {\n            r = \"{1956, 42}\";\n            s = 0;\n        },\n                {\n            r = \"{2077, 77}\";\n            s = 0;\n        },\n                {\n            r = \"{2252, 60}\";\n            s = 0;\n        },\n                {\n            r = \"{2425, 80}\";\n            s = 0;\n        },\n                {\n            r = \"{2602, 63}\";\n            s = 0;\n        },\n                {\n            r = \"{2714, 87}\";\n            s = 0;\n        },\n                {\n            r = \"{2869, 45}\";\n            s = 0;\n        },\n                {\n            r = \"{3021, 384}\";\n            s = 0;\n        },\n                {\n            r = \"{3509, 133}\";\n            s = 0;\n        },\n                {\n            r = \"{3672, 91}\";\n            s = 0;\n        },\n                {\n            r = \"{3782, 73}\";\n            s = 0;\n        },\n                {\n            r = \"{3975, 496}\";\n            s = 0;\n        },\n                {\n            r = \"{4540, 130}\";\n            s = 0;\n        },\n                {\n            r = \"{4747, 89}\";\n            s = 0;\n        },\n                {\n            r = \"{4918, 447}\";\n            s = 0;\n        },\n                {\n            r = \"{5441, 353}\";\n            s = 0;\n        },\n                {\n            r = \"{5886, 288}\";\n            s = 0;\n        },\n                {\n            r = \"{6246, 84}\";\n            s = 0;\n        },\n                {\n            r = \"{6386, 226}\";\n            s = 0;\n        },\n                {\n            r = \"{6705, 1707}\";\n            s = 0;\n        },\n                {\n            r = \"{8487, 647}\";\n            s = 0;\n        },\n                {\n            r = \"{9270, 408}\";\n            s = 0;\n        },\n                {\n            r = \"{9739, 186}\";\n            s = 0;\n        },\n                {\n            r = \"{9985, 191}\";\n            s = 0;\n        },\n                {\n            r = \"{10242, 1141}\";\n            s = 0;\n        },\n                {\n            r = \"{11549, 761}\";\n            s = 0;\n        },\n                {\n            r = \"{12385, 711}\";\n            s = 0;\n        },\n                {\n            r = \"{13184, 137}\";\n            s = 0;\n        },\n                {\n            r = \"{13366, 60}\";\n            s = 0;\n        },\n                {\n            r = \"{13454, 32}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 13493}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {947, 2262}}";
+			sepNavSelRange = "{1220, 1}";
+			sepNavVisRange = "{3396, 815}";
+		};
+	};
+	E0504EC3122D44A3005B74CB /* CCSpriteFrame.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 2366}}";
+			sepNavSelRange = "{1692, 7}";
+			sepNavVisRange = "{1216, 1015}";
+		};
+	};
+	E0504EC5122D44A3005B74CB /* CCSpriteFrameCache.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 4238}}";
+			sepNavSelRange = "{9350, 52}";
+			sepNavVisRange = "{8566, 1156}";
+		};
+	};
+	E0504EC9122D44A3005B74CB /* CCTexture2D.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1230, 8385}}";
+			sepNavSelRange = "{6015, 0}";
+			sepNavVisRange = "{5646, 961}";
+		};
+	};
+	E0504ECA122D44A3005B74CB /* CCTextureAtlas.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 1794}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{3739, 1411}";
+		};
+	};
+	E0504ECD122D44A3005B74CB /* CCTextureCache.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 5759}}";
+			sepNavSelRange = "{2761, 0}";
+			sepNavVisRange = "{8187, 1056}";
+		};
+	};
+	E0504ED8122D44A3005B74CB /* CCTMXXMLParser.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 2561}}";
+			sepNavSelRange = "{2773, 0}";
+			sepNavVisRange = "{1691, 794}";
+		};
+	};
+	E0504EDA122D44A3005B74CB /* CCTransition.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 3796}}";
+			sepNavSelRange = "{7866, 74}";
+			sepNavVisRange = "{5353, 810}";
+		};
+	};
+	E0504EDB122D44A3005B74CB /* CCTransition.m */ = {
+		uiCtxt = {
+			sepNavFolds = "{\n    c =     (\n                {\n            r = \"{1936, 66}\";\n            s = 0;\n        },\n                {\n            r = \"{2058, 627}\";\n            s = 0;\n        },\n                {\n            r = \"{2707, 23}\";\n            s = 0;\n        },\n                {\n            r = \"{2747, 119}\";\n            s = 0;\n        },\n                {\n            r = \"{2885, 373}\";\n            s = 0;\n        },\n                {\n            r = \"{3295, 535}\";\n            s = 0;\n        },\n                {\n            r = \"{3856, 57}\";\n            s = 0;\n        },\n                {\n            r = \"{3951, 94}\";\n            s = 0;\n        },\n                {\n            r = \"{4081, 172}\";\n            s = 0;\n        },\n                {\n            r = \"{4291, 73}\";\n            s = 0;\n        },\n                {\n            r = \"{4384, 62}\";\n            s = 0;\n        },\n                {\n            r = \"{4612, 80}\";\n            s = 0;\n        },\n                {\n            r = \"{4776, 83}\";\n            s = 0;\n        },\n                {\n            r = \"{4940, 648}\";\n            s = 0;\n        },\n                {\n            r = \"{5668, 943}\";\n            s = 0;\n        },\n                {\n            r = \"{6689, 254}\";\n            s = 0;\n        },\n                {\n            r = \"{6974, 68}\";\n            s = 0;\n        },\n                {\n            r = \"{7114, 120}\";\n            s = 0;\n        },\n                {\n            r = \"{7257, 96}\";\n            s = 0;\n        },\n                {\n            r = \"{7434, 95}\";\n            s = 0;\n        },\n                {\n            r = \"{7610, 97}\";\n            s = 0;\n        },\n                {\n            r = \"{7788, 98}\";\n            s = 0;\n        },\n                {\n            r = \"{8249, 393}\";\n            s = 0;\n        },\n                {\n            r = \"{8708, 112}\";\n            s = 0;\n        },\n                {\n            r = \"{8851, 139}\";\n            s = 0;\n        },\n                {\n            r = \"{9062, 120}\";\n            s = 0;\n        },\n                {\n            r = \"{9266, 23}\";\n            s = 0;\n        },\n                {\n            r = \"{9311, 109}\";\n            s = 0;\n        },\n                {\n            r = \"{9452, 142}\";\n            s = 0;\n        },\n                {\n            r = \"{9678, 22}\";\n            s = 0;\n        },\n                {\n            r = \"{9722, 109}\";\n            s = 0;\n        },\n                {\n            r = \"{9863, 143}\";\n            s = 0;\n        },\n                {\n            r = \"{10090, 23}\";\n            s = 0;\n        },\n                {\n            r = \"{10136, 112}\";\n            s = 0;\n        },\n                {\n            r = \"{10280, 140}\";\n            s = 0;\n        },\n                {\n            r = \"{10515, 568}\";\n            s = 0;\n        },\n                {\n            r = \"{11154, 120}\";\n            s = 0;\n        },\n                {\n            r = \"{11359, 975}\";\n            s = 0;\n        },\n                {\n            r = \"{12419, 971}\";\n            s = 0;\n        },\n                {\n            r = \"{13487, 981}\";\n            s = 0;\n        },\n                {\n            r = \"{14561, 1170}\";\n            s = 0;\n        },\n                {\n            r = \"{15824, 1195}\";\n            s = 0;\n        },\n                {\n            r = \"{17124, 1214}\";\n            s = 0;\n        },\n                {\n            r = \"{18490, 82}\";\n            s = 0;\n        },\n                {\n            r = \"{18655, 137}\";\n            s = 0;\n        },\n                {\n            r = \"{18847, 62}\";\n            s = 0;\n        },\n                {\n            r = \"{18929, 534}\";\n            s = 0;\n        },\n                {\n            r = \"{19482, 66}\";\n            s = 0;\n        },\n                {\n            r = \"{19641, 72}\";\n            s = 0;\n        },\n                {\n            r = \"{19733, 2120}\";\n            s = 0;\n        },\n                {\n            r = \"{21892, 126}\";\n            s = 0;\n        },\n                {\n            r = \"{22164, 22}\";\n            s = 0;\n        },\n                {\n            r = \"{22206, 431}\";\n            s = 0;\n        },\n                {\n            r = \"{22708, 71}\";\n            s = 0;\n        },\n                {\n            r = \"{22905, 416}\";\n            s = 0;\n        },\n                {\n            r = \"{23353, 65}\";\n            s = 0;\n        },\n                {\n            r = \"{23490, 58}\";\n            s = 0;\n        },\n                {\n            r = \"{23653, 65}\";\n            s = 0;\n        },\n                {\n            r = \"{23845, 22}\";\n            s = 0;\n        },\n                {\n            r = \"{23887, 395}\";\n            s = 0;\n        },\n                {\n            r = \"{24338, 65}\";\n            s = 0;\n        },\n                {\n            r = \"{24475, 71}\";\n            s = 0;\n        },\n                {\n            r = \"{24669, 65}\";\n            s = 0;\n        },\n                {\n            r = \"{24857, 65}\";\n            s = 0;\n        },\n                {\n            r = \"{25049, 67}\";\n            s = 0;\n        }\n    );\n    r = \"{0, 25123}\";\n    s = 0;\n}";
+			sepNavIntBoundsRect = "{{0, 0}, {872, 4004}}";
+			sepNavSelRange = "{6339, 18}";
+			sepNavVisRange = "{6093, 454}";
+		};
+	};
+	E0504EDC122D44A3005B74CB /* CCTransitionPageTurn.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 767}}";
+			sepNavSelRange = "{1531, 68}";
+			sepNavVisRange = "{1107, 653}";
+			sepNavWindowFrame = "{{15, 67}, {1242, 706}}";
+		};
+	};
+	E0504EDD122D44A3005B74CB /* CCTransitionPageTurn.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {908, 1313}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{582, 1320}";
+		};
+	};
+	E0504EE0122D44A3005B74CB /* ccTypes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 3419}}";
+			sepNavSelRange = "{2502, 9}";
+			sepNavVisRange = "{1197, 1102}";
+		};
+	};
+	E0504EE2122D44A3005B74CB /* cocos2d.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 442}}";
+			sepNavSelRange = "{1275, 27}";
+			sepNavVisRange = "{59, 1265}";
+		};
+	};
+	E0504EE7122D44A3005B74CB /* CCDirectorIOS.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 4160}}";
+			sepNavSelRange = "{6999, 13}";
+			sepNavVisRange = "{6877, 590}";
+		};
+	};
+	E0504EE8122D44A3005B74CB /* CCDirectorIOS.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1219, 10517}}";
+			sepNavSelRange = "{13103, 19}";
+			sepNavVisRange = "{13071, 929}";
+		};
+	};
+	E0504F01122D44A3005B74CB /* ccCArray.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {913, 5174}}";
+			sepNavSelRange = "{3915, 0}";
+			sepNavVisRange = "{3369, 780}";
+		};
+	};
+	E0504F08122D44A3005B74CB /* CGPointExtension.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 4056}}";
+			sepNavSelRange = "{2179, 11}";
+			sepNavVisRange = "{1589, 895}";
+		};
+	};
+	E0F80F5D120A0182005866B8 /* GameConfig.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 548}}";
+			sepNavSelRange = "{248, 0}";
+			sepNavVisRange = "{0, 533}";
+		};
+	};
+	E0F80F5E120A0182005866B8 /* Cocos2dViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 358}}";
+			sepNavSelRange = "{186, 0}";
+			sepNavVisRange = "{0, 280}";
+		};
+	};
+	E0F80F5F120A0182005866B8 /* Cocos2dViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {872, 715}}";
+			sepNavSelRange = "{361, 0}";
+			sepNavVisRange = "{84, 508}";
+		};
+	};
+}
