@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Leaderboards</key>
+	<dict>
+		<key>423954</key>
+		<string>drwins2</string>
+		<key>423964</key>
+		<string>drtime2</string>
+		<key>577254</key>
+		<string>drpunches2</string>
+		<key>577264</key>
+		<string>drwins3</string>
+		<key>577274</key>
+		<string>drtime3</string>
+		<key>577284</key>
+		<string>drpunches3</string>
+		<key>577294</key>
+		<string>drwins4</string>
+		<key>577304</key>
+		<string>drtime4</string>
+		<key>577314</key>
+		<string>drpunches4</string>
+	</dict>
+</dict>
+</plist>

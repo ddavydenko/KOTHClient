@@ -1,0 +1,194 @@
+<resources>
+<game_profile_page_info>
+  <has_challenges>false</has_challenges>
+  <suggestions_topic_id>361584</suggestions_topic_id>
+  <has_achievements>false</has_achievements>
+  <has_featured_application>true</has_featured_application>
+  <has_leaderboards>true</has_leaderboards>
+  <has_ipurchase>true</has_ipurchase>
+  <short_name>DRMltplyr</short_name>
+  <name>Doodle Rams Multiplayer</name>
+  <is_owned_by_local_player>true</is_owned_by_local_player>
+  <id>137394</id>
+  <timestamp>2011-09-17 22:06:52</timestamp>
+  <has_chat_rooms>false</has_chat_rooms>
+  <icon_url>http://cdn0.api.openfeint.com/uploads/application_descriptions/h_icons/48/2b/9a/66/38082/Icon_2x.png</icon_url>
+</game_profile_page_info>
+<offline>
+<timestamp>2011-09-17 22:06:52</timestamp>
+<leaderboards>
+<leaderboard>
+<id>423954</id>
+<name>Wins, 2 Players</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>137394</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-07-23 02:25:21 UTC</created_at>
+<updated_at>2010-12-02 15:39:52 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-09-17 22:06:52</timestamp>
+</leaderboard>
+<leaderboard>
+<id>423964</id>
+<name>Time, 2 Players</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>137394</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-07-23 02:26:12 UTC</created_at>
+<updated_at>2010-12-02 15:40:13 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-09-17 22:06:52</timestamp>
+</leaderboard>
+<leaderboard>
+<id>577254</id>
+<name>Punches, 2 Players</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>137394</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-12-02 15:40:30 UTC</created_at>
+<updated_at>2010-12-02 15:40:30 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-09-17 22:06:52</timestamp>
+</leaderboard>
+<leaderboard>
+<id>577264</id>
+<name>Wins, 3 Players</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>137394</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-12-02 15:40:47 UTC</created_at>
+<updated_at>2010-12-02 15:40:47 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-09-17 22:06:52</timestamp>
+</leaderboard>
+<leaderboard>
+<id>577274</id>
+<name>Time, 3 Players</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>137394</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-12-02 15:41:07 UTC</created_at>
+<updated_at>2010-12-02 15:41:07 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-09-17 22:06:52</timestamp>
+</leaderboard>
+<leaderboard>
+<id>577284</id>
+<name>Punches, 3 Players</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>137394</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-12-02 15:41:19 UTC</created_at>
+<updated_at>2010-12-02 15:41:19 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-09-17 22:06:52</timestamp>
+</leaderboard>
+<leaderboard>
+<id>577294</id>
+<name>Wins, 4 Players</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>137394</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-12-02 15:41:36 UTC</created_at>
+<updated_at>2010-12-02 15:41:36 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-09-17 22:06:52</timestamp>
+</leaderboard>
+<leaderboard>
+<id>577304</id>
+<name>Time, 4 Players</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>137394</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-12-02 15:41:49 UTC</created_at>
+<updated_at>2010-12-02 15:41:49 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-09-17 22:06:52</timestamp>
+</leaderboard>
+<leaderboard>
+<id>577314</id>
+<name>Punches, 4 Players</name>
+<active>true</active>
+<visible>true</visible>
+<allow_posting_lower_scores>false</allow_posting_lower_scores>
+<client_application_id>137394</client_application_id>
+<descending_sort_order>true</descending_sort_order>
+<created_at>2010-12-02 15:42:04 UTC</created_at>
+<updated_at>2010-12-02 15:42:04 UTC</updated_at>
+<start_version>0000.00.00</start_version>
+<end_version>9999.99.99</end_version>
+<position>0</position>
+<reached_at></reached_at>
+<display_text></display_text>
+<custom_data></custom_data>
+<score></score>
+<timestamp>2011-09-17 22:06:52</timestamp>
+</leaderboard>
+</leaderboards>
+</offline>
+
+</resources>

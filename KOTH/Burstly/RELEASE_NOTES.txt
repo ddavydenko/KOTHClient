@@ -1,0 +1,102 @@
+1.22.0.1995
+
+iAd, Admob, Adsense, Flurry, Millennial will test successfully in the simulator.  All networks are fully supported on devices.
+Weak link MediaPlayer.framework, UIKit.framework, libSystem.B.dylib and iAd.framework, otherwise follow setup instruction on docs.burstly.com
+
+Important: Set Base SDK to iOS 4.2 and Deployment target to whatever your lower support os version is(3.1.3+ recommended).
+
+
+Changes:
+
+1.22.0.1995 - The following bugs & features were resolved:
+- Updated iVdopia SDK to to version 3.4.7 (fixes a crash with iVdopia ad manager deallocation)
+- Improved user agent information reporting (reports more system information such as actual device type for better targeting)
+- Integrated JumpTap ad network SDK version 2.0.12.4
+- Added reporting of internal SDK status (ad network rotation problems) to Google Analytics
+- Deleted some old unused fields from the SDK-to-AdServer communication protocol
+- Fixed: iVdopia - two clicks tracked after only one that was made on banner
+- Fixed: occasional auto refresh manager crash
+- Fixed: clicks aren't tracked for Ivdopia fullscreen ads
+- Fixed: clicks aren't tracked for Millenial fullscreen ads
+- Fixed: crash after getting 'ivdopia' ad with fullscreen parameters
+
+1.21.0.1989 - The following bugs & features were resolved:
+- Updated Mobclix to version 4.1.6.
+- Updated Millennial to version 4.0.5.
+- Added a beta version of BrightRoll.
+- Added version 2.1.0.9 of Transpera.
+- Fixed Greystripe 728x90 clicks issue.
+- Fixed the problem with ads stop autorefreshing after iAd with parameter alwaysShowWhenAvailable":"YES" had been served.
+- Fixed a crash which used to happen occasionally after device rotation.
+- Fixed a crash after tapping a video ad with video that is actually unavailable.
+- Changed build versioning schema. Now it has the following format: Major.Minor.Patch.Build.
+
+1.0.20.0 - Fixed iAd for 4.2, Fixed ad rotation after coming back from background, Integrated medialets.
+
+1.0.19.0 - Added new Google Adsense parameters.
+
+1.0.18.0 - Millennial Media library updated. Download for house banner was moved from main thread. Adsense issue was fixed.
+
+BETA 17 - Fixed potential crash.
+
+BETA 16 - Added support for admob full screen interstitial ad.
+
+BETA 15 - iAd behavior on iOS 4.1 fixed.
+
+BETA 14 - Small fixes.
+
+BETA 13 - AdSense lib updated.
+
+BETA 12 - Removed QuattroWireless library. Added ability to disable AdMob transition animation.
+
+BETA 11 - Flurry and Smaato libraries updated.
+
+BETA 10 - Greystripe fixes regarding iPad.
+
+BETA 9 - Added Large Format Ads Support for Mobclix and Admob. Various Greystripe fixes regarding multitasking on iOS4. New ad type of script for rich media/Traffic marketplace type ads.
+
+BETA 8 - Added Burstly class (Burstly.h). It allows you to get the version of burstrly library and get/set log level.
+
+BETA 7 - Greystripe now enabled in simulator.
+
+BETA 6 - Greystripe lib updated. Added function to set Greystripe download speed. Default is the minimum speed possible.
+
+BETA 5 - Added temporary function to initialize greystripe with hardcoded id.
+
+
+
+###################
+SDK VERSIONS
+
+iAD - N/A
+
+Admob - Version: 20100614. MD5(lib): 3d0f8927df354ae8894780b1af70240e
+
+Google Adsense* - Version: 3.1 (August, 2010). MD5(lib): 5d9718bc86de175b87043fcbd5d3885b
+
+Flurry (w/ AppCircle) - (Xcode 3_2_3 flurrylibwithlocation) Version: 2.6. MD5(lib): 342525dd7c28a729129a50db7632776d
+
+Mobclix - Version: 4.1.6. MD5(lib): 27d04eb5c90e48981ef2e1d12a8129d7
+
+Smaato - Version 3.4. MD5(lib): fb6b80f90752cffc1e9dd26bee6a8de9
+
+Millennial Media - Version: 4.0.5. MD5(lib): cc9a0b818955ec88d45c8630449cb1c2
+
+Greystripe - Version: 3.1.1. MD5(lib): 87a52520b2b58be2a4ba3ba8791a19eb
+
+InMobi -  MD5(lib): fa76539f9b093853a37a50fb0ef81bea
+
+VideoEgg - Version: 1.1. MD5(lib): 9a6e7ce209922ef1eb3af49cd643e72b
+
+iVdopia - Version: 3.4.7.
+
+Medialets - Version: 2.4.3. MD5(lib): 3a71e6255b1039cad0fef875dcd29ece
+
+BrightRoll - Version: ??. MD5(lib): 6d1233484ee9aec4b59f2be45c65aee2
+
+Transpera - Version: 2.1.0.9. MD5(lib): 8535fd67dc1c966bbef7f9713c008d2a
+
+JumpTap - Version 2.0.12.4.
+
+*Note: Google Adsense is not open to the public. Google Adsense sdk is watermarked to publisher, please contact us for instructions on how to use Adsense if you are currently participating in the beta program.
+
